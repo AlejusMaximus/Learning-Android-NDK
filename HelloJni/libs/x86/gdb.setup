@@ -1,0 +1,3 @@
+set solib-search-path ./obj/local/x86
+source /Users/aleixpm/Library/Android/ndk/prebuilt/common/gdb/common.setup
+directory /Users/aleixpm/Library/Android/ndk/platforms/android-21/arch-x86/usr/include jni /Users/aleixpm/Library/Android/ndk/sources/cxx-stl/system

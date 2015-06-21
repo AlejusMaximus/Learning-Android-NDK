@@ -1,0 +1,27 @@
+12:28:20 **** Incremental Build of configuration Debug for project DebuggingExample ****
+make all 
+Building file: ../src/DebuggingExample.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DebuggingExample.d" -MT"src/DebuggingExample.d" -o "src/DebuggingExample.o" "../src/DebuggingExample.c"
+Finished building: ../src/DebuggingExample.c
+ 
+Building target: DebuggingExample
+Invoking: MacOS X C Linker
+gcc  -o "DebuggingExample"  ./src/DebuggingExample.o   
+Finished building target: DebuggingExample
+ 
+12:28:22 **** Incremental Build of configuration Debug for project DebuggingExample ****
+make all 
+make: Nothing to be done for `all'.
+12:29:06 **** Incremental Build of configuration Debug for project DebuggingExample ****
+make all 
+Building file: ../src/DebuggingExample.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DebuggingExample.d" -MT"src/DebuggingExample.d" -o "src/DebuggingExample.o" "../src/DebuggingExample.c"
+Finished building: ../src/DebuggingExample.c
+ 
+Building target: DebuggingExample
+Invoking: MacOS X C Linker
+gcc  -o "DebuggingExample"  ./src/DebuggingExample.o   
+Finished building target: DebuggingExample
+ 

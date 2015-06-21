@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;com_alejus_hellondk_MainActivity.h&apos; to &apos;jni&apos;&#x0A;- Original project: &apos;HelloNDK&apos;&#x0A;- Destination element: &apos;jni&apos;&#x0A;- Original element: &apos;com_alejus_hellondk_MainActivity.h&apos;" description="Copy file" element1="jni/com_alejus_hellondk_MainActivity.h" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1433194102432" target="/HelloNDK/jni" units="0" version="1.0"/>
+</session>
